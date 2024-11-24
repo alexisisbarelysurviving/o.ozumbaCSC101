@@ -4,7 +4,7 @@ fn main() {
     let mut input1 = String::new();
     let mut input2 = String::new();
 
-    println!("Experienced?");
+    println!("Experience");
     io::stdin().read_line(&mut input1).expect("Failed to read input");
     let experience: bool = input1.trim().parse().expect("Failed to parse input");
 

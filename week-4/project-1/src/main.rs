@@ -18,7 +18,7 @@ fn main() {
     let c: f32 = input3.trim().parse().expect("Failed to parse input");
 
     let discriminant = b * b - 4.0 * a * c;
-    println!("Discriminant is {}", discriminant);
+    println!("Discriminant is {}", 5discriminant);
 
     if discriminant > 0.0 {
         let x1 = (-b + discriminant.sqrt()) / (2.0 * a);
