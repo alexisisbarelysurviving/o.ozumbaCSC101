@@ -22,6 +22,8 @@ fn main() {
     let quantity_of_food: i32 = input2.trim().parse().expect("Failed to input");
 
     let choice = input3.trim();
+    io::stdin().read_line(&mut input2).expect("Failed to read input");
+
     let mut price:i32 = 0;
 
     if choice == "P"{
