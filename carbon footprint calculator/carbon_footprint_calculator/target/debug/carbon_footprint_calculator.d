@@ -1,0 +1,1 @@
+C:\Users\ALEXIS\Desktop\o.ozumbaCSC101\carbon\ footprint\ calculator\carbon_footprint_calculator\target\debug\carbon_footprint_calculator.exe: C:\Users\ALEXIS\Desktop\o.ozumbaCSC101\carbon\ footprint\ calculator\carbon_footprint_calculator\src\main.rs
