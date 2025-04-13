@@ -12,5 +12,5 @@ fn main() {
     };
     println!("name = {} \n", emp1.name );
     println!("company = {} \n", emp1.company);
-    println!("age = {} \n", emp1.age );
+    println!("age = {} \n", emp1.age);
 }
