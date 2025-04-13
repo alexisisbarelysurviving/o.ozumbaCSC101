@@ -6,6 +6,7 @@ fn main()
     let mut input2 = String::new();
     let mut input3 = String::new();
 
+
     println!("Enter first edge pf triangle: ");
     io::stdin().read_line(&mut input1).expect("Not a valide response");
     let a:f32 = input1.trim().parse().expect("Not a valid number");

@@ -6,6 +6,7 @@ fn main () {
     let department = vec!["Accounting            ", "Economics             ", "Computer science      ", "Electrical engineering", "Mechanical engineering"];
     let level = vec![300, 100, 200, 200, 100];
 
+
     let mut file = std::fs::File::create("pausims.txt").expect("create failed");
     file.write_all("\t\t\tPAU SMIS\n".as_bytes()).expect("write failed");
     

@@ -6,6 +6,7 @@ fn main() {
     loop {
         x+=1;
         println!("x={}", x);
+        
 
         if x==15 {
             break;

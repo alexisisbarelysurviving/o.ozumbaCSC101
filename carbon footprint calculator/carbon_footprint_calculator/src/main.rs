@@ -4,7 +4,6 @@ fn main() {
     println!("CARBON FOOTPRINT CALCULATOR");
     
 
-
     let milage_multiplier:f32 = 0.79;
     let gas_multiplier:f32 = 105.00;
     let plane_multiplier:f32 = 1100.00;
